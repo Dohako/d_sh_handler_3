@@ -1,0 +1,1 @@
+C:\SysGCC\raspberry\bin\arm-linux-gnueabihf-gcc.exe -o main1 main.cpp -lstdc++
